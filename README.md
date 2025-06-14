@@ -5,11 +5,11 @@
 ## Used Library
 
 The **LibHaru** library was used, which can be found [here](https://github.com/libharu/libharu).  
-libharu uses CMake, so you can easily install it and link it to your project.
+libharu uses CMake, so you can easily install it and link it to your project (by changing the paths in CMakeLists.txt accordingly).
 
 ## Usage
 
-Run **TournamentSystemChooser.exe** located in **cmake-build-debug**. No command line arguments are taken.
+Run **TournamentSystemChooser.exe** either built by CMake or from releases. No command line arguments are taken.
 
 The data is inputted via console. The program requires:
 
